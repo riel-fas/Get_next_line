@@ -1,11 +1,7 @@
 # GET_NEXT_LINE
 Get_next_line
 
-Key Features:
-Handles multiple file descriptors simultaneously.
-Custom buffer size to optimize performance for different use cases.
-Efficient memory management for handling large or unpredictable inputs.
-Function Prototype
+This project is about programming a function that returns a line read from a file descriptor.
 
 
 Parameters:
